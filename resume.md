@@ -17,17 +17,16 @@ Work Experience
 2012-2015
 :   *Software Engineer and Manager/Tech Lead for [WibiData, Inc](https://www.wibidata.com)* (San Francisco).
     
-    As the fourth employee at a Big Data startup, I helped grow the company
-    from six people to over forty, surviving one name change and three changes
-    of logos. Technical responsibilities revolved around the development of a
-    personalization platform and applications on top of Hadoop, HBase, and
-    Cassandra.
+    Fourth employee at a Big Data startup that grew to over forty, surviving
+    one name change and three changes to the logo. Technical work was the
+    development of a platform for personalized applications on top of Hadoop,
+    HBase, and Cassandra.
     
-    I was the project/tech lead on the effort to open source our technology,
-    responsible for breaking down the large effort into manageable,
-    prioritized tasks for the entire team. This was the beginning of the
-    [Kiji Project](https://github.com/kijiproject). I also was the tech lead
-    on our earliest real time scoring component,
+    I was the project/tech lead on the effort to open source our software stack,
+    responsible for breaking down the entire effort into manageable,
+    prioritized tasks for the team. This was the beginning of the
+    [Kiji Project](https://github.com/kijiproject). Later, I also was the tech
+    lead on our earliest real time scoring component,
     [Kiji Scoring](https://github.com/kijiproject/kiji-scoring)
     
     As we grew, I transitioned to a dual technical-managerial role, managing
@@ -41,29 +40,29 @@ Work Experience
 :   *Software Engineer at [Panasas](http://www.panasas.com/)* (Pittsburgh, PA).
 
     Internship after leaving grad school. Relevant project work was the
-    instrumentation of a FreeBSD kernel driver to implement QoS in network
-    attached storage devices of a parallel, distributed filesystem.
+    instrumentation of a FreeBSD kernel driver to implement QoS I/O scheduling
+    in network attached storage devices for our parallel, distributed
+    filesystem.
     
 Technologies and Skills
 -----------------------
 Python
-:   Most recent technological work has been in Python. Author of devtools and
-    small build components, e.g. [packrat](https://github.com/sqrl/packrat).
+:   Most of my recent technological work has been in Python. Author of devtools
+    and small build components, e.g.
+    [packrat](https://github.com/sqrl/packrat).
 
 Java
-:   Experienced with Java for distributed applications and Map Reduce programs.
-    I've also used Scala but am less familiar with it.
+:   Experienced coding distributed applications and map-reduce programs in
+    Java. I've also used Scala but am less familiar with it.
 
 Hadoop Stack
-:   I've used a variety of technologies in the Hadoop ecosystem: MapReduce,
-    Yarn, HBase, Hive, Scaldng, etc. This space is always moving and I've had
-    to port our ecosystem to different versions of the Cloudera Distribution of
-    Hadoop and others, dealing with the bugs and changes along the way.
+:   I've used a variety of technologies in the Hadoop ecosystem for model
+    training and analytics: MapReduce, Yarn, HBase, Hive, Scaldng, etc. This space is always moving and I've had to port our ecosystem to different versions of the Cloudera Distribution of Hadoop and others, dealing with the bugs and changes along the way.
 
 SCRUM and hygienic coding
-:   One of the first scrum masters at WibiData.  Led Sprint Planning for
+:   I was one of the first scrum masters at WibiData. Led Sprint Planning for
     platform team. Experienced in a culture of culture of code reviews, code
-    style guides, etc. Owned the effort on crafting our Python style guide.
+    style guides, etc. Owned the effort on writing our Python style guide.
 
 Education
 ---------
