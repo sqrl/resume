@@ -1,0 +1,123 @@
+
+
+MILO POLTE
+
+
+------------------------------------------------------------------------
+
+762 Shotwell St                                      milo.polte@gmail.com
+San Francisco, CA 94110                                   github.com/sqrl
+Phone: 607-280-3615                                       @squirrel_error
+
+------------------------------------------------------------------------
+
+
+Work Experience
+
+2012-2015
+
+    _Software Engineer and Manager/Tech Lead for WibiData, Inc_ (San
+    Francisco).
+
+    As the fourth employee at a Big Data startup, I helped grow the
+    company from six people to over forty, surviving one name change and
+    three changes of logos. Technical responsibilities revolved around
+    the development of a personalization platform and applications on
+    top of Hadoop, HBase, and Cassandra.
+
+    I was the project/tech lead on the effort to open source our
+    technology, responsible for breaking down the large effort into
+    manageable, prioritized tasks for the entire team. This was the
+    beginning of the Kiji Project. I also was the tech lead on our
+    earliest real time scoring component, Kiji Scoring
+
+    As we grew, I transitioned to a dual technical-managerial role,
+    managing ten direct reports (maximum of five at one time).
+
+    Tech Lead/Manager of the platform team, responsible for the lowest
+    level core technologies in WibiData’s architecture as well as our
+    internal build tools and scripts.
+
+2011 (3 months)
+
+    _Software Engineer at Panasas_ (Pittsburgh, PA).
+
+    Internship after leaving grad school. Relevant project work was the
+    instrumentation of a FreeBSD kernel driver to implement QoS in
+    network attached storage devices of a parallel, distributed
+    filesystem.
+
+
+Technologies and Skills
+
+Python
+    Most recent technological work has been in Python. Author of
+    devtools and small build components, e.g. packrat.
+
+Java
+    Experienced with Java for distributed applications and Map Reduce
+    programs. I’ve also used Scala but am less familiar with it.
+
+Hadoop Stack
+    I’ve used a variety of technologies in the Hadoop ecosystem:
+    MapReduce, Yarn, HBase, Hive, Scaldng, etc. This space is always
+    moving and I’ve had to port our ecosystem to different versions of
+    the Cloudera Distribution of Hadoop and others, dealing with the
+    bugs and changes along the way.
+
+SCRUM and hygienic coding
+    One of the first scrum masters at WibiData. Led Sprint Planning for
+    platform team. Experienced in a culture of culture of code reviews,
+    code style guides, etc. Owned the effort on crafting our Python
+    style guide.
+
+
+Education
+
+2006-2011
+
+    _Masters Degree in Computer Science at Carnegie Mellon University_
+    (Pittsburgh, PA)
+
+    Advisor: Garth Gibson. * Conducted research in CMU’s Parallel Data
+    Lab group under the programs of the Petascale Data Storage Institute
+    and the [Institute For Reliable High Performance Information
+    Technology] (http://institute.lanl.gov/isti/irhpit). * Benchmarked
+    Flash-based SSDs and evaluated cost efficiency of different hybrid
+    configurations. Papers:
+    http://www.pdl.cmu.edu/PDL-FTP/PDSI/simsa-pdsw08.pdf and
+    http://www.pdl.cmu.edu/PDL-FTP/PDSI/Polte.pdf. Included work inside
+    the Linux kernel. * Collaborated with Los Alamos National Laboratory
+    in the design and implementation of the [Parallel Log-structured
+    File System] (http://institutes.lanl.gov/plfs/). Papers:
+    http://institutes.lanl.gov/plfs/plfs.pdf and
+    http://www.pdsi-scidac.org/events/PDSW09/resources/pdsw09-final9.pdf *
+    Investigated the design of parallel filesystems for HPC built on top
+    of BigTable-like software. Paper:
+    http://www.cs.cmu.edu/~svp/2009hotcloud-tablefs.pdf
+
+1999-2005
+
+    _Bachelor of Arts and Master of Engineering in Computer Science at
+    Cornell University_ (Ithaca, NY)
+
+    Emphasis on courses in Distributed Systems, Networks, and Theory.
+
+    -   Independent Research with Prof. Emin Gun Sirer - (2001- 2002)
+        Researched and developed an anonymizing peer-to-peer overlay
+        network based on dining cryptographer nets called ‘Herbivore’.
+        White paper available:
+        http://www.cs.cornell.edu/People/egs/herbivore
+    -   Cornell University Neurobiology Department - (2005) Software
+        engineer for audio experimentation and education cross platform
+        workbench program called “Koé”, providing functionality similar
+        to professional synthesis applications, such as Reaktor.
+
+
+Hobbies and Other Activities
+
+-   Hiking
+
+-   Vegetarian Cooking
+
+-   My pet rabbit
