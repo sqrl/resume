@@ -68,8 +68,8 @@ Education
 ---------
 
 2006-2011
-:   *Masters Degree in Computer Science at Carnegie Mellon University*
-    (Pittsburgh, PA)
+:   *Masters Degree in Computer Science with partial work towards a PhD at
+    Carnegie Mellon University* (Pittsburgh, PA)
     
     Advisor: Garth Gibson.
     
