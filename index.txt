@@ -22,7 +22,9 @@ Work Experience
     Fourth employee at a Big Data startup that grew to over forty,
     surviving one name change and three changes to the logo. Technical
     work was the development of a platform for personalized applications
-    on top of Hadoop, HBase, and Cassandra.
+    on top of Hadoop, HBase, and Cassandra. Our platform was used in
+    production to deliver product recommendations at two large retail
+    customers, including holiday traffic.
 
     I was the project/tech lead on the effort to open source our
     software stack, responsible for breaking down the entire effort into
