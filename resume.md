@@ -6,7 +6,7 @@ Milo Polte
 
 `762 Shotwell St                                      milo.polte@gmail.com`  
 `San Francisco, CA 94110                                   github.com/sqrl`  
-`Phone: 607-280-3615                                       @squirrel_error`  
+`Phone: 607-280-3615                                       `  
 
 ----
 
