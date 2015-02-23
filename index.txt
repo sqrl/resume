@@ -32,11 +32,12 @@ Work Experience
     earliest real time scoring component, Kiji Scoring
 
     As we grew, I transitioned to a dual technical-managerial role,
-    managing ten direct reports (maximum of five at one time).
+    managing ten direct reports during my tenure (a maximum of five at
+    one time).
 
-    Tech Lead/Manager of the platform team, responsible for the lowest
-    level core technologies in WibiData’s architecture as well as our
-    internal build tools and scripts.
+    My last position was Tech Lead/Manager of the platform team,
+    responsible for the lowest level core technologies in WibiData’s
+    architecture as well as our internal build tools and scripts.
 
 2011 (3 months)
 
@@ -79,22 +80,23 @@ Education
     _Masters Degree in Computer Science at Carnegie Mellon University_
     (Pittsburgh, PA)
 
-    Advisor: Garth Gibson. * Conducted research in CMU’s Parallel Data
-    Lab group under the programs of the Petascale Data Storage Institute
-    and the [Institute For Reliable High Performance Information
-    Technology] (http://institute.lanl.gov/isti/irhpit). * Benchmarked
-    Flash-based SSDs and evaluated cost efficiency of different hybrid
-    configurations. Papers:
-    http://www.pdl.cmu.edu/PDL-FTP/PDSI/simsa-pdsw08.pdf and
-    http://www.pdl.cmu.edu/PDL-FTP/PDSI/Polte.pdf. Included work inside
-    the Linux kernel. * Collaborated with Los Alamos National Laboratory
-    in the design and implementation of the [Parallel Log-structured
-    File System] (http://institutes.lanl.gov/plfs/). Papers:
-    http://institutes.lanl.gov/plfs/plfs.pdf and
-    http://www.pdsi-scidac.org/events/PDSW09/resources/pdsw09-final9.pdf *
-    Investigated the design of parallel filesystems for HPC built on top
-    of BigTable-like software. Paper:
-    http://www.cs.cmu.edu/~svp/2009hotcloud-tablefs.pdf
+    Advisor: Garth Gibson.
+
+    -   Conducted research in CMU’s Parallel Data Lab group under the
+        programs of the Petascale Data Storage Institute and the
+        Institute For Reliable High Performance Information Technology.
+    -   Benchmarked Flash-based SSDs and evaluated cost efficiency of
+        different hybrid configurations. Papers:
+        http://www.pdl.cmu.edu/PDL-FTP/PDSI/simsa-pdsw08.pdf and
+        http://www.pdl.cmu.edu/PDL-FTP/PDSI/Polte.pdf. Included work
+        inside the Linux kernel.
+    -   Collaborated with Los Alamos National Laboratory in the design
+        and implementation of the Parallel Log-structured File System.
+        Papers: http://institutes.lanl.gov/plfs/plfs.pdf and
+        http://www.pdsi-scidac.org/events/PDSW09/resources/pdsw09-final9.pdf
+    -   Investigated the design of parallel filesystems for HPC built on
+        top of BigTable-like software. Paper:
+        http://www.cs.cmu.edu/~svp/2009hotcloud-tablefs.pdf
 
 1999-2005
 
@@ -117,7 +119,6 @@ Education
 Hobbies and Other Activities
 
 -   Hiking
-
 -   Vegetarian Cooking
-
--   My pet rabbit
+-   Losing at Dota
+-   Taking care of my pet rabbit

@@ -31,11 +31,11 @@ Work Experience
     [Kiji Scoring](https://github.com/kijiproject/kiji-scoring)
     
     As we grew, I transitioned to a dual technical-managerial role, managing
-    ten direct reports (maximum of five at one time).
+    ten direct reports during my tenure (a maximum of five at one time).
     
-    Tech Lead/Manager of the platform team, responsible for the lowest level
-    core technologies in WibiData's architecture as well as our internal build
-    tools and scripts.
+    My last position was Tech Lead/Manager of the platform team, responsible
+    for the lowest level core technologies in WibiData's architecture as well
+    as our internal build tools and scripts.
 
 2011 (3 months)
 :   *Software Engineer at [Panasas](http://www.panasas.com/)* (Pittsburgh, PA).
@@ -73,23 +73,23 @@ Education
     (Pittsburgh, PA)
     
     Advisor: Garth Gibson.
+    
     * Conducted research in CMU’s Parallel Data Lab group under the programs of 
     the [Petascale Data Storage Institute](http://www.pdsi-scidac.org/) and the
-    [Institute For Reliable High Performance Information Technology]
-    (http://institute.lanl.gov/isti/irhpit).
+    [Institute For Reliable High Performance Information Technology](http://institute.lanl.gov/isti/irhpit).
     * Benchmarked Flash-based SSDs and evaluated cost efficiency of different
     hybrid configurations. Papers:
-    http://www.pdl.cmu.edu/PDL-FTP/PDSI/simsa-pdsw08.pdf and 
-    http://www.pdl.cmu.edu/PDL-FTP/PDSI/Polte.pdf. Included work inside
-    the Linux kernel.
+    [http://www.pdl.cmu.edu/PDL-FTP/PDSI/simsa-pdsw08.pdf](http://www.pdl.cmu.edu/PDL-FTP/PDSI/simsa-pdsw08.pdf)
+    and [http://www.pdl.cmu.edu/PDL-FTP/PDSI/Polte.pdf](http://www.pdl.cmu.edu/PDL-FTP/PDSI/Polte.pdf).
+    Included work inside the Linux kernel.
     * Collaborated with Los Alamos National Laboratory in the design and
-    implementation of the [Parallel Log-structured File System]
-    (http://institutes.lanl.gov/plfs/). Papers:
-    http://institutes.lanl.gov/plfs/plfs.pdf and
-    http://www.pdsi-scidac.org/events/PDSW09/resources/pdsw09-final9.pdf
+    implementation of the
+    [Parallel Log-structured File System](http://institutes.lanl.gov/plfs/).
+    Papers: [http://institutes.lanl.gov/plfs/plfs.pdf](http://institutes.lanl.gov/plfs/plfs.pdf)
+    and [http://www.pdsi-scidac.org/events/PDSW09/resources/pdsw09-final9.pdf](http://www.pdsi-scidac.org/events/PDSW09/resources/pdsw09-final9.pdf)
     * Investigated the design of parallel filesystems for HPC built on top of
     BigTable-like software. Paper:
-    http://www.cs.cmu.edu/~svp/2009hotcloud-tablefs.pdf
+    [http://www.cs.cmu.edu/~svp/2009hotcloud-tablefs.pdf](http://www.cs.cmu.edu/~svp/2009hotcloud-tablefs.pdf)
     
 1999-2005
 :   *Bachelor of Arts and Master of Engineering in Computer Science at Cornell
@@ -99,8 +99,8 @@ Education
     
     * Independent Research with Prof. Emin Gun Sirer - (2001- 2002)
     Researched and developed an anonymizing peer-to-peer overlay network based
-    on dining cryptographer nets called ‘Herbivore’.
-    White paper available: http://www.cs.cornell.edu/People/egs/herbivore
+    on dining cryptographer nets called ‘Herbivore’. White paper available:
+    [http://www.cs.cornell.edu/People/egs/herbivore](http://www.cs.cornell.edu/People/egs/herbivore)
     * Cornell University Neurobiology Department - (2005)
     Software engineer for audio experimentation and education cross platform
     workbench program called “Koé”, providing functionality similar to
@@ -109,8 +109,7 @@ Education
 Hobbies and Other Activities
 ----------------------------
 
-* Hiking
-
-* Vegetarian Cooking
-
-* My pet [rabbit](https://www.youtube.com/watch?v=SzU_dGHykZ4)
+* [Hiking](http://i.imgur.com/ApbbKi8.jpg)
+* [Vegetarian Cooking](http://markbittman.com/book/how-to-cook-everything-vegetarian/)
+* Losing at [Dota](http://blog.dota2.com/)
+* Taking care of my pet [rabbit](https://www.youtube.com/watch?v=SzU_dGHykZ4)

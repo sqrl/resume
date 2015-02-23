@@ -20,19 +20,14 @@ body {
 /* Title of the resume */
 h1 {
     font-size: 55px;
-    color: #757575;
+    color: #6495ED;
     text-align:center;
     margin-bottom:15px;
-}
-h1:hover {
-    background-color: #757575;
-    color: #FFFFFF;
-    text-shadow: 1px 1px 1px #333;
 }
 
 /* Titles of categories */
 h2 {
-    color: #397249;
+    color: #6495ED;
 }
 /* There is a bar just before each category */
 h2:before {
@@ -41,10 +36,10 @@ h2:before {
     margin-right:1%;
     width: 16%;
     height: 10px;
-    background-color: #9CB770;
+    background-color: #6495ED;
 }
 h2:hover {
-    background-color: #397249;
+    background-color: #6495ED;
     color: #FFFFFF;
     text-shadow: 1px 1px 1px #333;
 }
@@ -72,10 +67,10 @@ blockquote {
 /* Links */
 a {
     text-decoration: none;
-    color: #397249;
+    color: #6495ED;
 }
 a:hover, a:active {
-    background-color: #397249;
+    background-color: #6495ED;
     color: #FFFFFF;
     text-decoration: none;
     text-shadow: 1px 1px 1px #333;
@@ -83,5 +78,5 @@ a:hover, a:active {
 
 /* Horizontal separators */
 hr {
-    color: #3F00FF;
+    color: #6495ED;
 }
