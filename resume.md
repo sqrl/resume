@@ -59,8 +59,8 @@ Python
     [packrat](https://github.com/sqrl/packrat) which we used internally at WibiData to cache and share build artifacts.
 
 Java
-:   Experienced coding distributed applications and map-reduce programs in
-    Java. I've also used Scala but am less familiar with it.
+:   I am experienced in coding distributed applications and map-reduce programs
+    in Java. I've also used Scala but am less familiar with it.
   
 Hadoop Stack
 :   I've used a variety of technologies in the Hadoop ecosystem for model
@@ -71,12 +71,12 @@ Hadoop Stack
     * Debugged numerous grungy issues in HBase ecosystem, such as ZooKeeper
     references, unblocking coworkers.
 
-SCRUM and hygienic coding
+Scrum and hygienic coding
 :   I was one of the first scrum masters at WibiData. Everyone does it differently.
 
     * Led Sprint Planning for platform team, working with Product to prioritize
     tasks.
-    * Experienced in a culture of culture of code reviews, code
+    * Participated in our culture of code reviews, code
     style guides, etc.
     * Owned the effort on writing our Python style guide.
 
@@ -114,10 +114,10 @@ Education
     
     * Independent Research with Prof. Emin Gun Sirer - (2001- 2002)
     Researched and developed an anonymizing peer-to-peer overlay network based
-    on dining cryptographer nets called ‘Herbivore’. White paper available:
+    on dining cryptographer nets called ‘Herbivore’. White paper:
     [http://www.cs.cornell.edu/People/egs/herbivore](http://www.cs.cornell.edu/People/egs/herbivore)
     * Cornell University Neurobiology Department - (2005)
-    Software engineer for audio experimentation and education cross platform
+    Worked as a software engineer on an audio research and education
     workbench program called “Koé”, providing functionality similar to
     professional synthesis applications, such as Reaktor.
 
