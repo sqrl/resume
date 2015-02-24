@@ -6,7 +6,7 @@ Milo Polte
 
 `762 Shotwell St                                      milo.polte@gmail.com`  
 `San Francisco, CA 94110                                   github.com/sqrl`  
-`Phone: 607-280-3615                                       `  
+`Phone: 607-280-3615                         www.linkedin.com/in/milopolte`  
 
 ----
 
@@ -17,54 +17,68 @@ Work Experience
 2012-2015
 :   *Software Engineer and Manager/Tech Lead for [WibiData, Inc](https://www.wibidata.com)* (San Francisco).
     
-    Fourth employee at a Big Data startup that grew to over forty, surviving
-    one name change and three changes to the logo. Technical work was the
-    development of a platform for personalized applications on top of Hadoop,
-    HBase, and Cassandra. Our platform was used in production to deliver
+    * Fourth employee at a Big Data startup that grew to over forty
+    * Survived one name change and three changes to the logo.
+    * Developed a platform for personalized applications on top of Hadoop,
+    HBase, and Cassandra.
+        * Our platform was used in production to deliver real-time
     product recommendations at two large retail customers, including holiday
     traffic.
     
-    I was the project/tech lead on the effort to open source our software stack,
-    responsible for breaking down the entire effort into manageable,
-    prioritized tasks for the team. This was the beginning of the
-    [Kiji Project](https://github.com/kijiproject). Later, I also was the tech
-    lead on our earliest real time scoring component,
-    [Kiji Scoring](https://github.com/kijiproject/kiji-scoring)
+    * Project/tech lead on the effort to open source our software stack as the
+    [Kiji Project](https://github.com/kijiproject).
+        * Broke down the effort into manageable, prioritized tasks for the team,
+        delivering tested, first releases on schedule.
+        * Kiji permitted us to better engage with our community with our own
+        meet-ups, etc.
+        * Tech lead on our earliest real time scoring component,
+    [Kiji Scoring](https://github.com/kijiproject/kiji-scoring) that served our
+        first real time recommendations.
     
-    As we grew, I transitioned to a dual technical-managerial role, managing
+    * Transitioned to a dual technical-managerial role and managed
     ten direct reports during my tenure (a maximum of five at one time).
     
-    My last position was Tech Lead/Manager of the platform team, responsible
-    for the lowest level core technologies in WibiData's architecture as well
-    as our internal build tools and scripts.
+    * Tech Lead/Manager of the platform team.
+        * Responsible for the foundational layers of our stack.
+        * Developed and help design internal build tools and scripts that
+        reduced compile time and improved engineer productivity.
 
 2011 (3 months)
-:   *Software Engineer at [Panasas](http://www.panasas.com/)* (Pittsburgh, PA).
+:   *Software Engineer internship at [Panasas](http://www.panasas.com/)* (Pittsburgh, PA).
 
-    Internship after leaving grad school. Relevant project work was the
-    instrumentation of a FreeBSD kernel driver to implement QoS I/O scheduling
-    in network attached storage devices for our parallel, distributed
-    filesystem.
-    
+    * Project work towards instrumenting a FreeBSD kernel driver to implement
+    QoS I/O scheduling in network attached storage devices for our parallel,
+    distributed filesystem.
+        
 Technologies and Skills
 -----------------------
 Python
-:   Most of my recent technological work has been in Python. Author of devtools
-    and small build components, e.g.
-    [packrat](https://github.com/sqrl/packrat).
+:   My most recent projects have been in Python.
+
+    * Authored devtools and simple but helpful build components, e.g.
+    [packrat](https://github.com/sqrl/packrat) which we used internally at WibiData to cache and share build artifacts.
 
 Java
 :   Experienced coding distributed applications and map-reduce programs in
     Java. I've also used Scala but am less familiar with it.
-
+  
 Hadoop Stack
 :   I've used a variety of technologies in the Hadoop ecosystem for model
-    training and analytics: MapReduce, Yarn, HBase, Hive, Scaldng, etc. This space is always moving and I've had to port our ecosystem to different versions of the Cloudera Distribution of Hadoop and others, dealing with the bugs and changes along the way.
+    training and analytics: MapReduce, Yarn, HBase, Hive, Scalding, etc.
+    
+    * Ported our ecosystem to different versions of the Cloudera Distribution 
+    of Hadoop and others, dealing with the bugs and changes along the way.
+    * Debugged numerous grungy issues in HBase ecosystem, such as ZooKeeper
+    references, unblocking coworkers.
 
 SCRUM and hygienic coding
-:   I was one of the first scrum masters at WibiData. Led Sprint Planning for
-    platform team. Experienced in a culture of culture of code reviews, code
-    style guides, etc. Owned the effort on writing our Python style guide.
+:   I was one of the first scrum masters at WibiData. Everyone does it differently.
+
+    * Led Sprint Planning for platform team, working with Product to prioritize
+    tasks.
+    * Experienced in a culture of culture of code reviews, code
+    style guides, etc.
+    * Owned the effort on writing our Python style guide.
 
 Education
 ---------
@@ -113,4 +127,4 @@ Hobbies and Other Activities
 * [Hiking](http://i.imgur.com/ApbbKi8.jpg)
 * [Vegetarian Cooking](http://markbittman.com/book/how-to-cook-everything-vegetarian/)
 * Losing at [Dota](http://blog.dota2.com/)
-* Taking care of my pet [rabbit](https://www.youtube.com/watch?v=SzU_dGHykZ4)
+* My pet [rabbit](https://www.youtube.com/watch?v=SzU_dGHykZ4)
