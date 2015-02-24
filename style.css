@@ -38,11 +38,6 @@ h2:before {
     height: 10px;
     background-color: #6495ED;
 }
-h2:hover {
-    background-color: #6495ED;
-    color: #FFFFFF;
-    text-shadow: 1px 1px 1px #333;
-}
 
 /* Definitions */
 dt {
