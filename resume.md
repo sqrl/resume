@@ -17,7 +17,7 @@ Work Experience
 2012-2015
 :   *Software Engineer and Manager/Tech Lead for [WibiData, Inc](https://www.wibidata.com)* (San Francisco).
     
-    * Fourth employee at a Big Data startup that grew to over forty
+    * Fourth employee at a Big Data startup that grew to over forty.
     * Survived one name change and three changes to the logo.
     * Developed a platform for personalized applications on top of Hadoop,
     HBase, and Cassandra.
