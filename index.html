@@ -11,11 +11,25 @@
 <body>
 <h1 id="milo-polte">Milo Polte</h1>
 <hr />
-<p><code>762 Shotwell St                                      milo.polte@gmail.com</code><br /><code>San Francisco, CA 94110                                   github.com/sqrl</code><br /><code>Phone: 607-280-3615                         www.linkedin.com/in/milopolte</code></p>
+<p><code>762 Shotwell St                                      milo.polte@gmail.com</code><br />
+<code>San Francisco, CA 94110             github.com/sqrl (mostly professional)</code><br />
+<code>Phone: 607-280-3615                 github.com/hyena (mostly hobbies)</code><br />
+<code>www.linkedin.com/in/milopolte</code></p>
 <hr />
 <h2 id="work-experience">Work Experience</h2>
 <dl>
-<dt>2012-2015</dt>
+<dt>May 2015 - Present</dt>
+<dd><p><em>Software Engineer at <a href="https://www.dropbox.com">Dropbox</a> in the Data Infrastructure Team</em> (San Francisco).</p>
+<ul>
+<li>Tech lead on new data-infra APIs, replacing single point of failure web-forms with programmatic interfaces providing the backends for a new suite of analytic tools.
+<ul>
+<li>Query Service: A RESTful API for Hive and Presto queries.</li>
+<li>ETL Service: A RESTful API for safely managing job pipelines.</li>
+</ul></li>
+<li>Member of an on-call rotation maintaining an infrastructure that runs thousands of jobs crunching petabytes of log data.</li>
+</ul>
+</dd>
+<dt>2012 - Feb 2015</dt>
 <dd><p><em>Software Engineer and Manager/Tech Lead for <a href="https://www.wibidata.com">WibiData, Inc</a></em> (San Francisco).</p>
 <ul>
 <li>Fourth employee at a Big Data startup that grew to over forty.</li>
@@ -46,30 +60,36 @@
 </dd>
 </dl>
 <h2 id="technologies-and-skills">Technologies and Skills</h2>
+<p>I've used a variety of technologies and programming languages, but here I highlight a few and describe what I've used them for in work and play. For any language or technology I probably have &quot;strong opinions weakly held&quot; about what's great and awful about them.</p>
 <dl>
 <dt>Python</dt>
-<dd><p>My most recent projects have been in Python.</p>
+<dd><p>I've used python at just about every company for scripting as well as systems coding.</p>
 <ul>
 <li>Authored devtools and simple but helpful build components, e.g. <a href="https://github.com/sqrl/packrat">packrat</a> which we used internally at WibiData to cache and share build artifacts.</li>
+<li>Worked on large Python-based backend systems such as Dropbox's Python based blockstore service and our 'Drone' job scheduler for Hadoop jobs.</li>
 </ul>
 </dd>
 <dt>Java</dt>
-<dd>I am experienced in coding distributed applications and map-reduce programs in Java. I've also used Scala but am less familiar with it.
+<dd>I am experienced in coding distributed applications and map-reduce programs in Java. For example, it's what I use primarily at Dropbox for our new Data APIs written as DropWizard applications.
 </dd>
 <dt>Hadoop Stack</dt>
 <dd><p>I've used a variety of technologies in the Hadoop ecosystem for model training and analytics: MapReduce, Yarn, HBase, Hive, Scalding, etc.</p>
 <ul>
-<li>Ported our ecosystem to different versions of the Cloudera Distribution of Hadoop and others, dealing with the bugs and changes along the way.</li>
+<li>Ported Wibi's ecosystem to different versions of the Cloudera Distribution of Hadoop and others, dealing with the bugs and changes along the way.</li>
 <li>Debugged numerous grungy issues in HBase ecosystem, such as ZooKeeper references, unblocking coworkers.</li>
+<li>Put in yet more grunge-work hours on Dropbox's giant Hive cluster, migrating namenodes on a live cluster, debugging subtle Zookeeper locks, etc.</li>
 </ul>
 </dd>
 <dt>Scrum and hygienic coding</dt>
 <dd><p>I was one of the first scrum masters at WibiData. Everyone does it differently.</p>
 <ul>
-<li>Led Sprint Planning for platform team, working with Product to prioritize tasks.</li>
-<li>Participated in our culture of code reviews, code style guides, etc.</li>
+<li>Led Sprint Planning for Wibi's platform team, working with Product to prioritize tasks.</li>
+<li>Established much of our culture of code reviews, tooling, etc.</li>
 <li>Owned the effort on writing our Python style guide.</li>
 </ul>
+</dd>
+<dt>Go-lang and Rust</dt>
+<dd>Still learning these technologies, but I'm really excited about their potential. * Currently re-implementing Dropbox's legacy and feature-creeped blockstore with a Go-based solution for reasons of performance, safety, and cleanliness. * Coded a number of silly slack bots to practice Go and Rust: * https://github.com/sqrl/slack-quoter Bot to save and replay humorous slack quotes * https://github.com/hyena/professor_sloak Bot that gives people random pokemon on request, fortune cookie style. * https://github.com/sqrl/slack-logger Super simple bot that logs slack conversations
 </dd>
 </dl>
 <h2 id="education">Education</h2>
