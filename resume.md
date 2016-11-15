@@ -4,10 +4,10 @@ Milo Polte
 
 ----
 
-`762 Shotwell St                                      milo.polte@gmail.com`  
-`San Francisco, CA 94110             github.com/sqrl (mostly professional)`  
-`Phone: 607-280-3615                 github.com/hyena (mostly hobbies)    `  
-`                                            www.linkedin.com/in/milopolte`  
+`762 Shotwell St                                                             milo.polte@gmail.com`  
+`San Francisco, CA 94110                                    github.com/sqrl (mostly professional)`  
+`Phone: 607-280-3615                                        github.com/hyena (mostly hobbies)    `  
+`                                                                   www.linkedin.com/in/milopolte`  
 
 ----
 
