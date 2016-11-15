@@ -155,10 +155,18 @@ Education
     workbench program called “Koé”, providing functionality similar to
     professional synthesis applications, such as Reaktor.
 
+Twitch Specific Information
+---------------------------
+* My stream: [twitch.tv/cyberskunk](https://twitch.tv/cyberskunk) Mostly features me losing at PvP in various games.
+* Favorite streamers currently:
+    * [twitch.tv/sheevergaming](https://www.twitch.tv/sheevergaming) First streamer I supported. Did so much for women in Dota casting.
+    * [twitch.tv/almightysavo](https://www.twitch.tv/almightysavo) Always fun to watch. First Twitch Creative I followed after Ross.
+    * Any Dark Souls stream, really.
+* Favorite games of 2015/2016: Undertale, Dark Souls III, Stellaris, Guild Wars 2
+
 Hobbies and Other Activities
 ----------------------------
 
 * [Hiking](http://i.imgur.com/ApbbKi8.jpg)
 * [Vegetarian Cooking](http://markbittman.com/book/how-to-cook-everything-vegetarian/)
-* Losing at [Dota](http://blog.dota2.com/)
 * My pet [rabbit](https://www.youtube.com/watch?v=SzU_dGHykZ4)
