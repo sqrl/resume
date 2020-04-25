@@ -96,6 +96,16 @@ Hadoop Stack
     migrating namenodes on a live cluster, debugging subtle Zookeeper locks, etc.
 
 
+Amazon Web Services
+:   At TraceGenomics, we used Amazon's cloud platform for most of our infrastructure
+    * Administered IAM user permissions as well as EC2 role-based access to sensitive
+    credentials.
+    * Profiled performance requirements of different bioinformatic workers to efficiently
+    size instances for company's needs.
+    * Led periodic reviews of our expenses, planning and executing steps to reduce our
+    costs.
+
+
 Scrum and hygienic coding
 :   I was one of the first scrum masters at WibiData. Everyone does it differently.
     * Led Sprint Planning for Wibi's platform team, working
@@ -106,15 +116,16 @@ Scrum and hygienic coding
     code reviews.
 
 
-Go-lang and Rust
-:   Still learning these technologies, but I'm really excited about their potential.
-    * Currently re-implementing Dropbox's legacy and feature-creeped blockstore with a Go-based
-    solution for reasons of performance, safety, and cleanliness.
-    * Coded a number of silly slack bots to practice Go and Rust:
-        * https://github.com/sqrl/slack-quoter Bot to save and replay humorous slack quotes
+Rust
+:   Still learning this technology, but I'm really excited about its potential for critical, low
+    level code.
+    * Coded a number of slack and discord bots to practice Rust:
+        * https://github.com/hyena/gnoll-roll Discord dice bot
+        * https://github.com/hyena/blood-money Webapp in Rust that pulled real time auction house
+          data from the World of Warcraft API and advised on trade good prices for players. Handled
+          thousands of requests per day at its height. Defunct now.
         * https://github.com/hyena/professor_sloak Bot that gives people random pokemon on request,
           fortune cookie style.
-        * https://github.com/sqrl/slack-logger Super simple bot that logs slack conversations
 
 Education
 ---------
