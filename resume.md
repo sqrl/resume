@@ -17,12 +17,13 @@ Work Experience
 
 Jan 2017 - April 2020
 :   *Senior Software Engineer at [TraceGenomics Inc.](https://tracegenomics.com/)* (Burlingame, Californa)
-     * Designed and implemented the backend pipeline and software stack for analyzing genomic 
-     information using parallel computing, reducing compute time from days to minutes.
-     * Advised and mentored the engineering team as the most senior engineer for 3 years.
-     * Optimized cloud computing to save over 70% per month on compute costs.
-     * Acted as the security engineer on the team; deployed security practices and firewall
-     infrastructure, investigated hacking and phishing attempts, managed company accounts.
+
+    * Designed and implemented the backend pipeline and software stack for analyzing genomic 
+    information using parallel computing, reducing compute time from days to minutes.
+    * Advised and mentored the engineering team as the most senior engineer for 3 years.
+    * Optimized cloud computing to save over 70% per month on compute costs.
+    * Acted as the security engineer on the team; deployed security practices and firewall
+    infrastructure, investigated hacking and phishing attempts, managed company accounts.
 
 May 2015 - Dec 2016
 :   *Software Engineer at [Dropbox](https://www.dropbox.com) in the Data Infrastructure Team* (San Francisco).
@@ -78,6 +79,7 @@ have "strong opinions weakly held" about what's great and awful about them.
 
 Python
 :    I've used python at just about every company for scripting as well as systems coding.
+
     * Wrote data pipelines of workers running bioinformatics on a queue of work items
     * Slack bots for alerting and integrations with external services such as Google sheets
     * Authored devtools and simple but helpful build components, e.g.
@@ -106,6 +108,7 @@ Hadoop Stack
 
 Amazon Web Services
 :   At TraceGenomics, we used Amazon's cloud platform for most of our infrastructure
+
     * Administered IAM user permissions as well as EC2 role-based access to sensitive
     credentials.
     * Profiled performance requirements of different bioinformatic workers to efficiently
@@ -116,6 +119,7 @@ Amazon Web Services
 
 Scrum and hygienic coding
 :   I was one of the first scrum masters at WibiData. Everyone does it differently.
+
     * Led Sprint Planning for Wibi's platform team, working
     with Product to prioritize tasks.
     * Established much of our culture of code reviews, tooling, etc.
@@ -127,6 +131,7 @@ Scrum and hygienic coding
 Rust
 :   Still learning this technology, but I'm really excited about its potential for critical, low
     level code.
+
     * Coded a number of slack and discord bots to practice Rust:
         * https://github.com/hyena/gnoll-roll Discord dice bot
         * https://github.com/hyena/blood-money Webapp in Rust that pulled real time auction house
