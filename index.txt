@@ -143,7 +143,7 @@ Amazon Web Services
     -   Led periodic reviews of our expenses, planning and executing
         steps to reduce our costs.
 
-Scrum and hygienic coding
+Scrum and Code Hygiene
 
     I was one of the first scrum masters at WibiData. Everyone does it
     differently.
