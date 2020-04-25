@@ -18,7 +18,10 @@
 <hr />
 <h2 id="work-experience">Work Experience</h2>
 <dl>
-<dt>May 2015 - Present</dt>
+<dt>Jan 2017 - April 2020</dt>
+<dd><em>Senior Software Engineer at <a href="https://tracegenomics.com/">TraceGenomics Inc.</a></em> (Burlingame, Californa) * Designed and implemented the backend pipeline and software stack for analyzing genomic information using parallel computing, reducing compute time from days to minutes. * Advised and mentored the engineering team as the most senior engineer for 3 years. * Optimized cloud computing to save over 70% per month on compute costs. * Acted as the security engineer on the team; deployed security practices and firewall infrastructure, investigated hacking and phishing attempts, managed company accounts.
+</dd>
+<dt>May 2015 - Dec 2016</dt>
 <dd><p><em>Software Engineer at <a href="https://www.dropbox.com">Dropbox</a> in the Data Infrastructure Team</em> (San Francisco).</p>
 <ul>
 <li>Tech lead on new data-infra APIs, replacing single point of failure web-forms with programmatic interfaces providing the backends for a new suite of analytic tools.
@@ -29,11 +32,10 @@
 <li>Member of an on-call rotation maintaining an infrastructure that runs thousands of jobs crunching petabytes of log data.</li>
 </ul>
 </dd>
-<dt>2012 - Feb 2015</dt>
+<dt>Jan 2012 - Feb 2015</dt>
 <dd><p><em>Software Engineer and Manager/Tech Lead for <a href="https://www.wibidata.com">WibiData, Inc</a></em> (San Francisco).</p>
 <ul>
 <li>Fourth employee at a Big Data startup that grew to over forty.</li>
-<li>Survived one name change and three changes to the logo.</li>
 <li>Developed a platform for personalized applications on top of Hadoop, HBase, and Cassandra.
 <ul>
 <li>Our platform was used in production to deliver real-time product recommendations at two large retail customers, including holiday traffic.</li>
@@ -52,7 +54,7 @@
 </ul></li>
 </ul>
 </dd>
-<dt>2011 (3 months)</dt>
+<dt>Summer 2011 (3 months)</dt>
 <dd><p><em>Software Engineer internship at <a href="http://www.panasas.com/">Panasas</a></em> (Pittsburgh, PA).</p>
 <ul>
 <li>Project work towards instrumenting a FreeBSD kernel driver to implement QoS I/O scheduling in network attached storage devices for our parallel, distributed filesystem.</li>
@@ -63,14 +65,10 @@
 <p>I've used a variety of technologies and programming languages, but here I highlight a few and describe what I've used them for in work and play. For any language or technology I probably have &quot;strong opinions weakly held&quot; about what's great and awful about them.</p>
 <dl>
 <dt>Python</dt>
-<dd><p>I've used python at just about every company for scripting as well as systems coding.</p>
-<ul>
-<li>Authored devtools and simple but helpful build components, e.g. <a href="https://github.com/sqrl/packrat">packrat</a> which we used internally at WibiData to cache and share build artifacts.</li>
-<li>Worked on large Python-based backend systems such as Dropbox's Python based blockstore service and our 'Drone' job scheduler for Hadoop jobs.</li>
-</ul>
+<dd>I've used python at just about every company for scripting as well as systems coding. * Wrote data pipelines of workers running bioinformatics on a queue of work items * Slack bots for alerting and integrations with external services such as Google sheets * Authored devtools and simple but helpful build components, e.g. <a href="https://github.com/sqrl/packrat">packrat</a> which we used internally at WibiData to cache and share build artifacts. * Worked on large Python-based backend systems such as Dropbox's Python based blockstore service and our 'Drone' job scheduler for Hadoop jobs.
 </dd>
 <dt>Java</dt>
-<dd>I am experienced in coding distributed applications and map-reduce programs in Java. For example, it's what I use primarily at Dropbox for our new Data APIs written as DropWizard applications.
+<dd>I am experienced in coding distributed applications and map-reduce programs in Java. For example, it's what I used primarily at Dropbox for our new Data APIs written as DropWizard applications.
 </dd>
 <dt>Hadoop Stack</dt>
 <dd><p>I've used a variety of technologies in the Hadoop ecosystem for model training and analytics: MapReduce, Yarn, HBase, Hive, Scalding, etc.</p>
@@ -80,16 +78,14 @@
 <li>Put in yet more grunge-work hours on Dropbox's giant Hive cluster, migrating namenodes on a live cluster, debugging subtle Zookeeper locks, etc.</li>
 </ul>
 </dd>
-<dt>Scrum and hygienic coding</dt>
-<dd><p>I was one of the first scrum masters at WibiData. Everyone does it differently.</p>
-<ul>
-<li>Led Sprint Planning for Wibi's platform team, working with Product to prioritize tasks.</li>
-<li>Established much of our culture of code reviews, tooling, etc.</li>
-<li>Owned the effort on writing our Python style guide.</li>
-</ul>
+<dt>Amazon Web Services</dt>
+<dd>At TraceGenomics, we used Amazon's cloud platform for most of our infrastructure * Administered IAM user permissions as well as EC2 role-based access to sensitive credentials. * Profiled performance requirements of different bioinformatic workers to efficiently size instances for company's needs. * Led periodic reviews of our expenses, planning and executing steps to reduce our costs.
 </dd>
-<dt>Go-lang and Rust</dt>
-<dd>Still learning these technologies, but I'm really excited about their potential. * Currently re-implementing Dropbox's legacy and feature-creeped blockstore with a Go-based solution for reasons of performance, safety, and cleanliness. * Coded a number of silly slack bots to practice Go and Rust: * https://github.com/sqrl/slack-quoter Bot to save and replay humorous slack quotes * https://github.com/hyena/professor_sloak Bot that gives people random pokemon on request, fortune cookie style. * https://github.com/sqrl/slack-logger Super simple bot that logs slack conversations
+<dt>Scrum and hygienic coding</dt>
+<dd>I was one of the first scrum masters at WibiData. Everyone does it differently. * Led Sprint Planning for Wibi's platform team, working with Product to prioritize tasks. * Established much of our culture of code reviews, tooling, etc. * Owned the effort on writing our Python style guide. * At TraceGenomics introduced our first implementations of sprint planning and code reviews.
+</dd>
+<dt>Rust</dt>
+<dd>Still learning this technology, but I'm really excited about its potential for critical, low level code. * Coded a number of slack and discord bots to practice Rust: * https://github.com/hyena/gnoll-roll Discord dice bot * https://github.com/hyena/blood-money Webapp in Rust that pulled real time auction house data from the World of Warcraft API and advised on trade good prices for players. Handled thousands of requests per day at its height. Defunct now. * https://github.com/hyena/professor_sloak Bot that gives people random pokemon on request, fortune cookie style.
 </dd>
 </dl>
 <h2 id="education">Education</h2>
@@ -113,17 +109,6 @@
 </ul>
 </dd>
 </dl>
-<h2 id="twitch-specific-information">Twitch Specific Information</h2>
-<ul>
-<li>My stream: <a href="https://twitch.tv/cyberskunk">twitch.tv/cyberskunk</a> Mostly features me losing at PvP in various games.</li>
-<li>Favorite streamers currently:
-<ul>
-<li><a href="https://www.twitch.tv/sheevergaming">twitch.tv/sheevergaming</a> First streamer I supported. Did so much for women in Dota casting.</li>
-<li><a href="https://www.twitch.tv/almightysavo">twitch.tv/almightysavo</a> Always fun to watch. First Twitch Creative I followed after Ross.</li>
-<li>Any Dark Souls stream, really.</li>
-</ul></li>
-<li>Favorite games of 2015/2016: Undertale, Dark Souls III, Stellaris, Guild Wars 2</li>
-</ul>
 <h2 id="hobbies-and-other-activities">Hobbies and Other Activities</h2>
 <ul>
 <li><a href="http://i.imgur.com/ApbbKi8.jpg">Hiking</a></li>

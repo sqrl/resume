@@ -15,27 +15,38 @@ www.linkedin.com/in/milopolte
 
 Work Experience
 
-May 2015 - Present
+Jan 2017 - April 2020
+    _Senior Software Engineer at TraceGenomics Inc._ (Burlingame,
+    Californa) * Designed and implemented the backend pipeline and
+    software stack for analyzing genomic information using parallel
+    computing, reducing compute time from days to minutes. * Advised and
+    mentored the engineering team as the most senior engineer for 3
+    years. * Optimized cloud computing to save over 70% per month on
+    compute costs. * Acted as the security engineer on the team;
+    deployed security practices and firewall infrastructure,
+    investigated hacking and phishing attempts, managed company
+    accounts.
 
-    _Software Engineer at Dropbox in the Data Infrastructure Team_
-    (San Francisco).
+May 2015 - Dec 2016
+
+    _Software Engineer at Dropbox in the Data Infrastructure Team_ (San
+    Francisco).
 
     -   Tech lead on new data-infra APIs, replacing single point of
         failure web-forms with programmatic interfaces providing the
         backends for a new suite of analytic tools.
         -   Query Service: A RESTful API for Hive and Presto queries.
-        -   ETL Service: A RESTful API for safely managing
-            job pipelines.
+        -   ETL Service: A RESTful API for safely managing job
+            pipelines.
     -   Member of an on-call rotation maintaining an infrastructure that
         runs thousands of jobs crunching petabytes of log data.
 
-2012 - Feb 2015
+Jan 2012 - Feb 2015
 
-    _Software Engineer and Manager/Tech Lead for WibiData, Inc_
-    (San Francisco).
+    _Software Engineer and Manager/Tech Lead for WibiData, Inc_ (San
+    Francisco).
 
     -   Fourth employee at a Big Data startup that grew to over forty.
-    -   Survived one name change and three changes to the logo.
     -   Developed a platform for personalized applications on top of
         Hadoop, HBase, and Cassandra.
         -   Our platform was used in production to deliver real-time
@@ -55,10 +66,10 @@ May 2015 - Present
     -   Tech Lead/Manager of the platform team.
         -   Responsible for the foundational layers of our stack.
         -   Developed and help design internal build tools and scripts
-            that reduced compile time and improved
-            engineer productivity.
+            that reduced compile time and improved engineer
+            productivity.
 
-2011 (3 months)
+Summer 2011 (3 months)
 
     _Software Engineer internship at Panasas_ (Pittsburgh, PA).
 
@@ -75,20 +86,19 @@ For any language or technology I probably have “strong opinions weakly
 held” about what’s great and awful about them.
 
 Python
-
     I’ve used python at just about every company for scripting as well
-    as systems coding.
-
-    -   Authored devtools and simple but helpful build components, e.g.
-        packrat which we used internally at WibiData to cache and share
-        build artifacts.
-    -   Worked on large Python-based backend systems such as Dropbox’s
-        Python based blockstore service and our ‘Drone’ job scheduler
-        for Hadoop jobs.
+    as systems coding. * Wrote data pipelines of workers running
+    bioinformatics on a queue of work items * Slack bots for alerting
+    and integrations with external services such as Google sheets *
+    Authored devtools and simple but helpful build components, e.g.
+    packrat which we used internally at WibiData to cache and share
+    build artifacts. * Worked on large Python-based backend systems such
+    as Dropbox’s Python based blockstore service and our ‘Drone’ job
+    scheduler for Hadoop jobs.
 
 Java
     I am experienced in coding distributed applications and map-reduce
-    programs in Java. For example, it’s what I use primarily at Dropbox
+    programs in Java. For example, it’s what I used primarily at Dropbox
     for our new Data APIs written as DropWizard applications.
 
 Hadoop Stack
@@ -106,27 +116,33 @@ Hadoop Stack
         cluster, migrating namenodes on a live cluster, debugging subtle
         Zookeeper locks, etc.
 
+Amazon Web Services
+    At TraceGenomics, we used Amazon’s cloud platform for most of our
+    infrastructure * Administered IAM user permissions as well as EC2
+    role-based access to sensitive credentials. * Profiled performance
+    requirements of different bioinformatic workers to efficiently size
+    instances for company’s needs. * Led periodic reviews of our
+    expenses, planning and executing steps to reduce our costs.
+
 Scrum and hygienic coding
+    I was one of the first scrum masters at WibiData. Everyone does it
+    differently. * Led Sprint Planning for Wibi’s platform team, working
+    with Product to prioritize tasks. * Established much of our culture
+    of code reviews, tooling, etc. * Owned the effort on writing our
+    Python style guide. * At TraceGenomics introduced our first
+    implementations of sprint planning and code reviews.
 
-    I was one of the first scrum masters at WibiData. Everyone does
-    it differently.
-
-    -   Led Sprint Planning for Wibi’s platform team, working with
-        Product to prioritize tasks.
-    -   Established much of our culture of code reviews, tooling, etc.
-    -   Owned the effort on writing our Python style guide.
-
-Go-lang and Rust
-    Still learning these technologies, but I’m really excited about
-    their potential. * Currently re-implementing Dropbox’s legacy and
-    feature-creeped blockstore with a Go-based solution for reasons of
-    performance, safety, and cleanliness. * Coded a number of silly
-    slack bots to practice Go and Rust: *
-    https://github.com/sqrl/slack-quoter Bot to save and replay humorous
-    slack quotes * https://github.com/hyena/professor_sloak Bot that
-    gives people random pokemon on request, fortune cookie style. *
-    https://github.com/sqrl/slack-logger Super simple bot that logs
-    slack conversations
+Rust
+    Still learning this technology, but I’m really excited about its
+    potential for critical, low level code. * Coded a number of slack
+    and discord bots to practice Rust: *
+    https://github.com/hyena/gnoll-roll Discord dice bot *
+    https://github.com/hyena/blood-money Webapp in Rust that pulled real
+    time auction house data from the World of Warcraft API and advised
+    on trade good prices for players. Handled thousands of requests per
+    day at its height. Defunct now. *
+    https://github.com/hyena/professor_sloak Bot that gives people
+    random pokemon on request, fortune cookie style.
 
 
 Education
@@ -169,20 +185,6 @@ Education
         software engineer on an audio research and education workbench
         program called “Koé”, providing functionality similar to
         professional synthesis applications, such as Reaktor.
-
-
-Twitch Specific Information
-
--   My stream: twitch.tv/cyberskunk Mostly features me losing at PvP in
-    various games.
--   Favorite streamers currently:
-    -   twitch.tv/sheevergaming First streamer I supported. Did so much
-        for women in Dota casting.
-    -   twitch.tv/almightysavo Always fun to watch. First Twitch
-        Creative I followed after Ross.
-    -   Any Dark Souls stream, really.
--   Favorite games of 2015/2016: Undertale, Dark Souls III, Stellaris,
-    Guild Wars 2
 
 
 Hobbies and Other Activities
