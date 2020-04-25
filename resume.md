@@ -4,10 +4,12 @@ Milo Polte
 
 ----
 
-`762 Shotwell St                                                             milo.polte@gmail.com`  
-`San Francisco, CA 94110                                    github.com/sqrl (mostly professional)`  
-`Phone: 607-280-3615                                        github.com/hyena (mostly hobbies)    `  
-`                                                                   www.linkedin.com/in/milopolte`  
+|                                            |                                          |
+| ------------------------------------------ | ---------------------------------------: |
+|`762 Shotwell St`                           | `milo.polte@gmail.com`                   |
+|`San Francisco, CA 94110`                   | `github.com/sqrl (mostly professional)`  |
+|`Phone: 607-280-3615`                       | `github.com/hyena (mostly hobbies)`      |
+|`www.linkedin.com/in/milopolte`             | `This resume's source code:` [https://github.com/sqrl/resume](https://github.com/sqrl/resume) |
 
 ----
 
@@ -15,17 +17,17 @@ Milo Polte
 Work Experience
 ---------------
 
-Jan 2017 - April 2020
+Jan 2017 - April&nbsp;2020
 :   *Senior Software Engineer at [TraceGenomics Inc.](https://tracegenomics.com/)* (Burlingame, Californa)
 
-    * Designed and implemented the backend pipeline and software stack for analyzing genomic 
+    * Designed and implemented the backend pipeline and software stack for analyzing genomic
     information using parallel computing, reducing compute time from days to minutes.
     * Advised and mentored the engineering team as the most senior engineer for 3 years.
     * Optimized cloud computing to save over 70% per month on compute costs.
     * Acted as the security engineer on the team; deployed security practices and firewall
     infrastructure, investigated hacking and phishing attempts, managed company accounts.
 
-May 2015 - Dec 2016
+May 2015 - Dec&nbsp;2016
 :   *Software Engineer at [Dropbox](https://www.dropbox.com) in the Data Infrastructure Team* (San Francisco).
 
     * Tech lead on new data-infra APIs, replacing single point of failure web-forms with
@@ -35,7 +37,7 @@ May 2015 - Dec 2016
     * Member of an on-call rotation maintaining an infrastructure that runs thousands of jobs
     crunching petabytes of log data.
 
-Jan 2012 - Feb 2015
+Jan 2012 - Feb&nbsp;2015
 :   *Software Engineer and Manager/Tech Lead for [WibiData, Inc](https://www.wibidata.com)* (San Francisco).
 
     * Fourth employee at a Big Data startup that grew to over forty.
@@ -63,7 +65,7 @@ Jan 2012 - Feb 2015
         * Developed and help design internal build tools and scripts that
         reduced compile time and improved engineer productivity.
 
-Summer 2011 (3 months)
+Summer 2011
 :   *Software Engineer internship at [Panasas](http://www.panasas.com/)* (Pittsburgh, PA).
 
     * Project work towards instrumenting a FreeBSD kernel driver to implement
@@ -117,7 +119,7 @@ Amazon Web Services
     costs.
 
 
-Scrum and hygienic coding
+Scrum and Code&nbsp;Hygiene
 :   I was one of the first scrum masters at WibiData. Everyone does it differently.
 
     * Led Sprint Planning for Wibi's platform team, working

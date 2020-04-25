@@ -1,6 +1,6 @@
 /*
  * Copyright 2013 Christophe-Marie Duquesne <chmd@chmd.fr>
- * Modified by Milo Polte 2015
+ * Modified by Milo Polte 2015-2020
  *
  * CSS for making a resume with pandoc. Inspired by moderncv.
  *
@@ -74,4 +74,8 @@ a:hover, a:active {
 /* Horizontal separators */
 hr {
     color: #6441A4;
+}
+
+table {
+    width: 100%;
 }

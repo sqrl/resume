@@ -4,7 +4,7 @@ index.html: resume.md style.css
 	pandoc --standalone -c style.css --from markdown --to html -o index.html resume.md
 
 index.pdf: index.html
-	wkhtmltopdf -L 50 -R 50 index.html index.pdf
+	wkhtmltopdf index.html index.pdf
 
 index.docx: resume.md
 	pandoc --from markdown --to docx -o index.docx resume.md

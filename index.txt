@@ -5,17 +5,23 @@ MILO POLTE
 
 ------------------------------------------------------------------------
 
-762 Shotwell St                                                             milo.polte@gmail.com
-San Francisco, CA 94110                                    github.com/sqrl (mostly professional)
-Phone: 607-280-3615                                        github.com/hyena (mostly hobbies)
-www.linkedin.com/in/milopolte
+  ---------------------------------------- ---------------------------------------
+  762 Shotwell St                                             milo.polte@gmail.com
+
+  San Francisco, CA 94110                    github.com/sqrl (mostly professional)
+
+  Phone: 607-280-3615                            github.com/hyena (mostly hobbies)
+
+  www.linkedin.com/in/milopolte                         This resume's source code:
+                                                    https://github.com/sqrl/resume
+  ---------------------------------------- ---------------------------------------
 
 ------------------------------------------------------------------------
 
 
 Work Experience
 
-Jan 2017 - April 2020
+Jan 2017 - April 2020
 
     _Senior Software Engineer at TraceGenomics Inc._ (Burlingame,
     Californa)
@@ -31,7 +37,7 @@ Jan 2017 - April 2020
         practices and firewall infrastructure, investigated hacking and
         phishing attempts, managed company accounts.
 
-May 2015 - Dec 2016
+May 2015 - Dec 2016
 
     _Software Engineer at Dropbox in the Data Infrastructure Team_ (San
     Francisco).
@@ -45,7 +51,7 @@ May 2015 - Dec 2016
     -   Member of an on-call rotation maintaining an infrastructure that
         runs thousands of jobs crunching petabytes of log data.
 
-Jan 2012 - Feb 2015
+Jan 2012 - Feb 2015
 
     _Software Engineer and Manager/Tech Lead for WibiData, Inc_ (San
     Francisco).
@@ -73,7 +79,7 @@ Jan 2012 - Feb 2015
             that reduced compile time and improved engineer
             productivity.
 
-Summer 2011 (3 months)
+Summer 2011
 
     _Software Engineer internship at Panasas_ (Pittsburgh, PA).
 
