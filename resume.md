@@ -15,7 +15,7 @@ Milo Polte
 Work Experience
 ---------------
 
-May 2015 - Present
+May 2015 - Dec 2016
 :   *Software Engineer at [Dropbox](https://www.dropbox.com) in the Data Infrastructure Team* (San Francisco).
 
     * Tech lead on new data-infra APIs, replacing single point of failure web-forms with
@@ -25,7 +25,7 @@ May 2015 - Present
     * Member of an on-call rotation maintaining an infrastructure that runs thousands of jobs
     crunching petabytes of log data.
 
-2012 - Feb 2015
+Jan 2012 - Feb 2015
 :   *Software Engineer and Manager/Tech Lead for [WibiData, Inc](https://www.wibidata.com)* (San Francisco).
 
     * Fourth employee at a Big Data startup that grew to over forty.
@@ -54,7 +54,7 @@ May 2015 - Present
         * Developed and help design internal build tools and scripts that
         reduced compile time and improved engineer productivity.
 
-2011 (3 months)
+Summer 2011 (3 months)
 :   *Software Engineer internship at [Panasas](http://www.panasas.com/)* (Pittsburgh, PA).
 
     * Project work towards instrumenting a FreeBSD kernel driver to implement
@@ -70,7 +70,8 @@ have "strong opinions weakly held" about what's great and awful about them.
 
 Python
 :    I've used python at just about every company for scripting as well as systems coding.
-
+    * Wrote data pipelines of workers running bioinformatics on a queue of work items
+    * Slack bots for alerting and integrations with external services such as Google sheets
     * Authored devtools and simple but helpful build components, e.g.
     [packrat](https://github.com/sqrl/packrat) which we used internally at WibiData to cache and
     share build artifacts.
@@ -79,7 +80,7 @@ Python
 
 Java
 :   I am experienced in coding distributed applications and map-reduce programs
-    in Java. For example, it's what I use primarily at Dropbox for our new Data APIs written
+    in Java. For example, it's what I used primarily at Dropbox for our new Data APIs written
     as DropWizard applications.
 
 
@@ -97,11 +98,12 @@ Hadoop Stack
 
 Scrum and hygienic coding
 :   I was one of the first scrum masters at WibiData. Everyone does it differently.
-
     * Led Sprint Planning for Wibi's platform team, working
     with Product to prioritize tasks.
     * Established much of our culture of code reviews, tooling, etc.
     * Owned the effort on writing our Python style guide.
+    * At TraceGenomics introduced our first implementations of sprint planning and
+    code reviews.
 
 
 Go-lang and Rust
