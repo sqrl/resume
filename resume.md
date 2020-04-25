@@ -15,6 +15,15 @@ Milo Polte
 Work Experience
 ---------------
 
+Jan 2017 - April 2020
+:   *Senior Software Engineer at [TraceGenomics Inc.](https://tracegenomics.com/)* (Burlingame, Californa)
+     * Designed and implemented the backend pipeline and software stack for analyzing genomic 
+     information using parallel computing, reducing compute time from days to minutes.
+     * Advised and mentored the engineering team as the most senior engineer for 3 years.
+     * Optimized cloud computing to save over 70% per month on compute costs.
+     * Acted as the security engineer on the team; deployed security practices and firewall
+     infrastructure, investigated hacking and phishing attempts, managed company accounts.
+
 May 2015 - Dec 2016
 :   *Software Engineer at [Dropbox](https://www.dropbox.com) in the Data Infrastructure Team* (San Francisco).
 
@@ -29,7 +38,6 @@ Jan 2012 - Feb 2015
 :   *Software Engineer and Manager/Tech Lead for [WibiData, Inc](https://www.wibidata.com)* (San Francisco).
 
     * Fourth employee at a Big Data startup that grew to over forty.
-    * Survived one name change and three changes to the logo.
     * Developed a platform for personalized applications on top of Hadoop,
     HBase, and Cassandra.
         * Our platform was used in production to deliver real-time
